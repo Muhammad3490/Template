@@ -1,0 +1,42 @@
+li{
+    display: inline;
+    list-style: none;
+    margin: 0px 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.bg-blue{
+   color: aliceblue;
+    background-color:  #084B88 ;
+}
+.bg-ligblue{
+    background-color: #F0F8FF;
+    color: black;
+}
+.sideMenu{
+    border: 1px solid rgba(0, 0, 0, 0.197);
+    width: 0vw;
+    height: 100vh;
+    transition: width 0.4s ease;
+}
+body{overflow-x: hidden;}
+.mainImg{
+    width: 25vw;
+    height: 70vh;
+}
+#mainTxt{
+    width: 30vw;
+}
+button{
+    margin: 0px 8px;
+}
+.full{
+ width: 100vw;
+ height: 100vh;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

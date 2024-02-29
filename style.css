@@ -1,0 +1,52 @@
+li{
+    list-style: none;
+    display: inline;
+    margin: 0px 2px;
+}
+span{
+    margin: 0px 5px;
+}
+span i{
+    font-size: 30px;
+}
+.cImg{
+    width: 96vw;
+    height: 54vh;
+}
+.gradeBg{
+    background-image: url('grade.jpg');
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+
+}
+.card{
+    border: 0px;
+}
+.cardImg{
+    width: 720px;
+    height: 380px;
+    aspect-ratio: 1/1;
+
+}
+.h-100{
+    height: auto;
+    max-height: auto;
+}
+.wid-40{
+    width: 40vw;
+}
+.wid-50{
+    width: 50vw;
+}
+.wid-25{
+    width: 25vw;
+}
+#footList li{
+    display: block;
+    margin: 0px 4px;
+}
+.cardSkill{
+    width: 37vw;
+    height: auto;
+}

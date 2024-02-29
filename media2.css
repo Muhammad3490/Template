@@ -1,0 +1,29 @@
+@media (max-width:1000px) {
+    .cImg{
+        width: 77vw;
+        height: 30vh;
+    }
+    .cardS{
+        display: grid;
+        height: 30vh;
+    }
+    
+    .cardImg{
+        width: 80vw;
+        height: 28vh;
+        border-radius: 8px;
+    }
+    .wid-40{
+        width: 85vw;
+    }
+    .wid-50{
+        width: 92vw;
+    }
+    .wid-25{
+        width: 78vw;
+    }
+    .cardSkill{
+        width: 87vw;
+        height: auto;
+    }
+}

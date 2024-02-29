@@ -1,0 +1,29 @@
+@media (max-width:1000px) {
+    .mainImg{
+        width: 70vw;
+        height: 55vh;
+    }
+    li{
+        display: inline;
+        list-style: none;
+        margin: 0px 5px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+    #mainTxt{
+        width: 50vw;
+    }
+    *{
+        font-size: 14px;
+    }
+    .full{
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .sideMenu{
+        border: 1px solid rgba(0, 0, 0, 0.197);
+        width: 2vw;
+        height: 100vh;
+        transition: width 0.4s ease;
+    }
+}
